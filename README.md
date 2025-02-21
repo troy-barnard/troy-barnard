@@ -12,9 +12,7 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ## 📫 How to reach me
 
-- **Email:** [troy.barnard@example.com](mailto:troy.barnard@example.com)
 - **LinkedIn:** [Troy Barnard](https://www.linkedin.com/in/troy-barnard/)
-- **Twitter:** [@TroyBarnard](https://twitter.com/TroyBarnard)
 
 ## 🌱 Currently Learning
 
@@ -28,6 +26,6 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## 💬 Quote
 
-_"The best way to predict the future is to invent it." - Alan Kay_
+_"I'm In The Middle Of Some Calibrations." - Garrus Vakarian_
 
 Thanks for visiting my profile! Have a great day! 😄
