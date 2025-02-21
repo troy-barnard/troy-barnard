@@ -12,7 +12,6 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ## 📈 GitHub Stats
 
-![Troy's GitHub stats](https://github-readme-stats.vercel.app/api?username=troy-barnard&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troy-barnard&layout=compact&theme=radical)
 
 ## 📫 How to reach me
