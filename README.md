@@ -4,8 +4,6 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ## 🔧 Technologies & Tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=troy-barnard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 - **Languages:** JavaScript, TypeScript, Python, Java, C++
 - **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, MySQL
