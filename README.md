@@ -4,9 +4,9 @@ I'm a passionate software developer with a love for creating innovative and effi
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Languages:** JavaScript, TypeScript, Dart, Python, Java, C#
+- **Frameworks & Libraries:** React, Node.js, Flutter, Express, Django
+- **Databases:** PostgreSQL, MongoDB, MySQL, SQLite, Realm
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, CI/CD
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, JIRA
 
