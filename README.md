@@ -10,10 +10,6 @@ I'm a passionate software developer with a love for creating innovative and effi
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, CI/CD
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, JIRA
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troy-barnard&layout=compact&theme=radical)
-
 ## 📫 How to reach me
 
 - **Email:** [troy.barnard@example.com](mailto:troy.barnard@example.com)
