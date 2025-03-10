@@ -8,7 +8,7 @@ I'm a passionate software developer with a love for creating innovative and effi
 - **Frameworks & Libraries:** React, Node.js, Flutter, Express, Django
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQLite, Realm
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, CI/CD
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, JIRA
+- **Tools:** Git, GitHub, VS Code, JIRA
 
 ## 📫 How to reach me
 
